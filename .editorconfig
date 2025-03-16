@@ -1,0 +1,5 @@
+indent_style = space
+intent_size = 4
+[*.lua]
+indent_style = space
+intent_size = 2
